@@ -1,0 +1,22 @@
+{
+  "name": "employee-basics",
+  "version": "1.0.0",
+  "description": "Employee Information Database",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JWViking/employee-basics.git"
+  },
+  "author": "JWViking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JWViking/employee-basics/issues"
+  },
+  "homepage": "https://github.com/JWViking/employee-basics#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
