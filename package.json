@@ -2,7 +2,7 @@
   "name": "employee-basics",
   "version": "1.0.0",
   "description": "Employee Information Database",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
