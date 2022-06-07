@@ -1,7 +1,7 @@
 function internCard(intern) {
     return `<div class="col-4 my-3">
-    <div class="card" style="width: 18rem;">
-        <div class="card-body">
+    <div class="card" style="width: 15rem;">
+        <div class="card-body bg-primary">
             <h5 class="card-title">${intern.name}</h5>
             <p class="card-text"><i class="fa-solid fa-user-graduate"></i>Intern</p>
         </div>
